@@ -1,0 +1,12 @@
+**/migrations
+*.DS_Store
+**/__pycache__
+**/.DS_Store
+.env
+/tgbot/bot_app/keyboard.py
+test.py
+test2.py
+/media/
+/templates/
+/static/assets/
+/tgbot/bot_app/constant.py
